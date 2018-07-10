@@ -1,1 +1,1 @@
-worker : cherry.js
+worker : node cherry.js
